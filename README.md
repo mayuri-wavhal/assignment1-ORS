@@ -22,14 +22,14 @@ Technologies :
 REST endpoints : 
 1. Product has below endpoints
 
-1. GET /products - fetches list of all product data
-2. GET /products/{id} - fetch a specific product
-3. POST /products - Creates a new product
+    a. GET /products - fetches list of all product data
+    b. GET /products/{id} - fetch a specific product
+    c. POST /products - Creates a new product
 
 2. Invoice has below endpoints
-1. GET /invoices - Get all invoices
-2. GET /invoices/{id} - Get invoice of specific id
-3. POST /invoices - creates a invoice Id. 
+    a. GET /invoices - Get all invoices
+    b. GET /invoices/{id} - Get invoice of specific id
+    c. POST /invoices - creates a invoice Id. 
 ***********************************************************************************************************************************
 Implementation : 
 Application is a SpringBoot project developed using Spring Security, Spring JPA and starters and tested using below technologies
