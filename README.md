@@ -1,5 +1,6 @@
 
 Introduction :
+
 This assignment consists of RESTful services that implements a check out counter for an online retail store that scans products and generates itemized invoice/bill.
 
 Sales tax varies based on of the product as per below : 
